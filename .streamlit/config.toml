@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0f766e"          # verde brand
+backgroundColor = "#FFFFFF"       # bianco
+secondaryBackgroundColor = "#F3F4F6"  # grigio chiaro sidebar / box
+textColor = "#111827"             # quasi nero (molto leggibile)
+font = "sans serif"
